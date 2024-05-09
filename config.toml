@@ -22,5 +22,5 @@ highlight_theme = "agola-dark"
 
 links = [
     { title = "Email Me", href = "mailto:calebkim707@gmail.com" },
-    { title = "GitHub", href = "https://github.com" },
+    { title = "GitHub", href = "https://github.com/calebmkim/mysportsblog" },
 ]
