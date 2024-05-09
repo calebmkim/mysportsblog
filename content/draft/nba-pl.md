@@ -10,7 +10,7 @@ I love these videos.[^1]
 They're really fun, and for some reason most of his comparisons seem pretty spot-on.
 In this blog post, I'll take my shot at comparing NBA players to programming languages.
 
-Please don't take this too seriously.
+Please don't take this too seriously. I'm just having fun.
 
 #### Kevin Durant: Python
 
