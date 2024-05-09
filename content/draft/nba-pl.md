@@ -3,7 +3,7 @@ title = "NBA Players: Programming Languages"
 date = 2024-05-02
 +++
 
-Colin Cowherd is known for making some pretty wacky sports analogies.
+Radio host Colin Cowherd is known for making some pretty wacky sports analogies.
 For example, he did one segment where he compared NFL quarterbacks to [thanksgiving foods](https://www.youtube.com/watch?v=d4UWDXjnoDM).
 He did another segment where he compared NFL quarterbacks to [Hollywood actors](https://www.youtube.com/watch?v=KLvBnxTwOE4).
 I love these videos.[^1]
