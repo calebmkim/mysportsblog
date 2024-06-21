@@ -176,7 +176,7 @@ They then beat the Warriors in 6 in the Finals: most people point to the fact th
 But the Raptors still went up 3-1 against the Warriors with a healthy Steph, Klay, and Draymond.
 That's pretty impressive. In my opinion, they're clearly better than both of the teams in the next tier.
 
-The reason I don't have them ahead of the Lakers is because I don't think the Raptors 2nd best player (Pascal Siakam) was nearly as good as the Lakers' (Anthony Davis).
+The reason I don't have them ahead of the Lakers is because I don't think the Raptors' 2nd best player (Pascal Siakam) was nearly as good as the Lakers' (Anthony Davis).
 
 ### Tier 5: Honestly not that good for an NBA Champion
 
@@ -239,8 +239,8 @@ Watching them in the playoffs, it felt like their offense was never quite clicki
 7. '14-'15 Warriors
 ----
 8. '10-'11 Mavs
-T-9. '19-'20 Lakers
-T-9. '18-'19 Raptors
+9. '19-'20 Lakers
+9. '18-'19 Raptors
 ----
 11. '21-'22 Warriors
 12. '20-'21 Bucks
