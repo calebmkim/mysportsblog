@@ -80,7 +80,7 @@ They had the 5th best point differential in NBA history and were never even push
 It may be unfair to the Celtics, but the reason I don't have them ahead of the Tier 2 teams is because I don't think they had as difficult competitions as those teams.
 The '13 and '14 Heat and Spurs had each other to compete with (along with the Kevin Durant and Russell Westbrook Thunder team) and the '16 Cavs had to compete with the 73-win Warriors.
 
-I don't think the Celtics had to compete with anyone as good as the teams I just mentioned.: they had an incredibly easy path to the Finals (faced zero 50 win teams, and literally every team they played in the East had their best player injured), before facing a healthy 50-win Mavs team in the finals.
+I don't think the Celtics had to compete with anyone as good as the teams I just mentioned: they had an incredibly easy path to the Finals (faced zero 50 win teams, and literally every team they played in the East had their best player injured), before facing a healthy 50-win Mavs team in the finals.
 The Mavs are good, but I don't think they're on the level of the teams I mentioned previously.
 Maybe if the Mavs end up winning multiple championships, then I'll view this Celtics team differently.
 But for now, I honestly wouldn't feel confident picking the '23-'24 Celtics in a 7 game series against the '15-'16 Cavs.
@@ -91,13 +91,14 @@ Regular season record: 53-29, +3.3 PPG differential
 
 Playoff record: 16-4, (Beat Heat in 5 in the Finals)
 
-The Nuggets had a somewhat underwhelming regular season stats--- like the '15-'16 Cavs, I'm not bothered too much by this because I think they comfortably had the 1 seed and were coasting until the playoffs.
+Given their stats, it's possible that I have this Nuggets team too high.
+They had a somewhat underwhelming regular season--- like the '15-'16 Cavs, I'm not bothered too much by this because I think they comfortably had the 1 seed and were coasting until the playoffs.
 
 The Nuggets faced some very good (although not great) teams in the playoffs: the Suns w/ CP3, Booker, and KD, the Lebron & AD Lakers, and the Jimmy Butler Heat team that had beaten the Bucks and Celtics on the road to the finals.
 Impressively, they were never really challenged by any of these teams: their closest series was vs. the Suns in 6 games; while the Suns did win 2 straight against them to tie the series at 2-2, KD and Booker had to combine for 79 ppg over those two games. The Nuggets then won games 5 and 6 by 16 and 25 points respectively.
 
 Another main reason I have them so high is because of how impressive they were when I watched them play.
-Their offense is like a well-oiled machine: Jokic constantly makes good decisions that lead to good, open shots, Murray shot very well in the 2023 playoffs (much better than 2024), they don't rely on shooting 3's (they were 15th out of the 16 playoff teams that year in 3-point attempts/game: probably part of the reason their PPG differential wasn't as high), and they had a go-to play when they needed to score (Murray-Jokic pick and roll).
+Their offense is like a well-oiled machine: Jokic constantly makes good decisions that lead to open shots (for him or his teammates), Murray shot very well in the 2023 playoffs (much better than 2024), they aren't reliant on making their 3-pointers (they were 15th out of the 16 playoff teams that year in 3-point attempts/game: probably part of the reason their PPG differential wasn't as high), and they had a go-to play when they needed to score (Murray-Jokic pick and roll).
 All of this made the Nuggets a very steady and reliable team that again, was never really challenged in the playoffs.
 
 **7. '14-'15 Warriors**
@@ -116,7 +117,7 @@ The Cavs series is particularly relevant, since both Kyrie Irving and Kevin Love
 Another reason I don't have them as high is because, even though this was one of Steph's two MVP seasons, I'm not even sure this was one of the five best seasons of his career.
 For one point of reference: it was his 10th highest season in his career in terms of PPG (obviously the increase in scoring overall in the NBA over the past 10 years has something to do with this stat).
 In other words, I don't look at the Steph Curry and the Warriors' future success as evidence of how great their 2014-2015 team was.
-I think the Warriors, and Steph in particular, got a lot better after their '14-'15 season.
+I think the Warriors, and Steph in particular, got a lot better in the few years after their '14-'15 season.
 
 That said, they still had historically great regular season stats and never faced a game 7 in the playoffs.
 
@@ -152,7 +153,7 @@ The Lakers were having a very good regular season before it got interrupted by C
 They went on to win the championship when the season resumed in the bubble.
 
 
-One obvious reason to rank the Lakers high: they had wo top 75 all-time players at or near their prime: AD was in his prime, and Lebron was just leaving his.
+One obvious reason to rank the Lakers high: they had two top 75 all-time players at or near their prime: AD was in his prime, and Lebron was just leaving his.
 
 One of the reasons I don't rank the Lakers quite as high is (1) I don't think Lebron was quite what he was in Miami/Cleveland (2) Lebron and AD's supporting cast wan't quite as strong and (3) I think the Lakers had a relatively easy path to the championship.
 The Clippers were supposed to be their main competition, but blew a 3-1 lead to the Nuggets, and this Nuggets team had not reached its peak yet (to give one point of reference: the Lakers played the Nuggets 3 years later in the playoffs and the Nuggets swept them).
@@ -177,6 +178,7 @@ But the Raptors still went up 3-1 against the Warriors with a healthy Steph, Kla
 That's pretty impressive. In my opinion, they're clearly better than both of the teams in the next tier.
 
 The reason I don't have them ahead of the Lakers is because I don't think the Raptors' 2nd best player (Pascal Siakam) was nearly as good as the Lakers' (Anthony Davis).
+So despite the fact that they probably accomplished more than the 2020 Lakers, the Lakers' roster (in particular their two stars) made it difficult me to put them over the Lakers.
 
 ### Tier 5: Honestly not that good for an NBA Champion
 
@@ -209,7 +211,7 @@ Playoff record: 16-7, (Beat Suns in 6 in the Finals)
 
 While this team was obviously great, I don't think they were as good compared to the other teams on this list.
 
-Their regular season was good-not-great--- but to be fair lots of teams had only decent regular seasons but still ranked high on this list.
+Their regular season was good-not-great--- but to be fair, lots of teams had only decent regular seasons but still ranked high on this list.
 The reason why I have the Bucks low is because of their *postseason* performance.
 
 The Bucks were somewhat lucky to beat the Nets in round 2.
@@ -223,9 +225,9 @@ I don't think any of the other teams on this list would be tested this much by t
 
 And to their credit, they did beat the Suns in 4 straight games after going down 2-0.
 
-However, I was not as impressed with their championship run as other years.
-Watching them in the playoffs, it felt like their offense was never quite clicking: for one point of reference, out of the final 8 teams in the playoffs that year, they had the 7th best offensive rating.
-(To be fair, they were a great defensive team.)
+Honestly, when I watched them in the playoffs, it felt like their offense was never quite clicking.
+One point of reference to support this: out of the final 8 teams in the playoffs that year, they had the 7th best offensive rating.
+They were obviously a great defensive team, though.
 
 ## Summary
 1. '16-'17 Warriors
@@ -239,8 +241,7 @@ Watching them in the playoffs, it felt like their offense was never quite clicki
 7. '14-'15 Warriors
 ----
 8. '10-'11 Mavs
-9. '19-'20 Lakers
-9. '18-'19 Raptors
+9. '19-'20 Lakers and '18-'19 Raptors
 ----
 11. '21-'22 Warriors
 12. '20-'21 Bucks
