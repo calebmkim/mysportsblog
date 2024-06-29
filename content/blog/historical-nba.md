@@ -6,7 +6,7 @@ date = 2024-06-29
 The Celtics just won the NBA championship, so I decided to rank every NBA champion since the 2010-2011 season, which is about when I started following the NBA.
 
 The way I ranked the teams was based on who I think is *better*, not necessarily which team had more impressive accomplishments.
-In other words, I asked myself who I would pick to win a 7 game series, not necessarily which team had more impressive stats or a tougher road in the playoffs (although, obviously these things both factor in to who I think would win a series).
+In other words, I asked myself who I would pick to win a 7 game series, not necessarily which team had more impressive stats or a tougher road in the playoffs (although, obviously these things both are factors when thinking about who would win a series).
 
 Also, all the stats are from [StatMuse](https://www.statmuse.com/questions), ESPN, or Wikipedia. Mainly StatMuse though.
 
@@ -34,7 +34,7 @@ Unlike the 2016-2017 Warriors, this team did face adversity in the playoffs: the
 However, there are a couple of reasons I still have this Warriors team so high:
 - The Rockets team they beat in 7 was *very* good: 65-17 with a +8.5 PPG differential in the regular season.
 They had prime James Harden, Chris Paul, Eric Gordon, and Clint Capela, and everyone on their roster had a well-defined role and played well together.
-- The '17-'18 Warriors clearly had a more talented roster compared to any other team on this list, so I'm giving them the benefit of the doubt. I would still pick them to win a series over any of the other teams behind them on this list.
+- The '17-'18 Warriors clearly had a more talented roster compared to any other team on this list, so I'm giving them the benefit of the doubt. I would still pick them to win a series over any of the teams below them on this list.
 
 ### Tier 2: Great, even compared to other NBA champions
 
@@ -91,7 +91,7 @@ Furthermore, they were down 3-2 to the 4-seed Celtics (who Ray Allen played for 
 In fact, they were actually *underdogs* against the Thunder in the Finals that year.
 
 I still rank this Heat team highly for a couple of reasons:
-- They still had prime Lebron and prime Dwyane Wade. Like the '17-'18 Warriors and '15-'16 Cavs, I give teams with talented rosters the benefit of the doubt even when they have underwhelming regular seasons.
+- They still had prime Lebron and prime Dwyane Wade. Like the '17-'18 Warriors and '15-'16 Cavs, I tend to give teams with talented rosters the benefit of the doubt.
 - Another reason this Heat team was underdogs vs. the Thunder in the 2012 Finals is because of how good the Thunder were. They had Kevin Durant, Russell, Westbrook, James Harden, Serge Ibaka, etc. (3 future MVPs on the same roster).
 And they had just won 4 straight vs. the Spurs in the conference finals after going down 0-2.
 To beat the Thunder in 5 games is very impressive.
@@ -125,7 +125,7 @@ Out of all the teams on this list, this may have been my favorite team to watch,
 Like the '15-'16 Cavs, I'm not bothered too much by their somewhat underwhelming regular season because I think they comfortably had the 1 seed and were coasting until the playoffs.
 
 However, this team--- as [Jamal Murray](https://www.youtube.com/watch?v=nHpRYupC4ws) routinely does--- significantly raised their level in the playoffs.
-Arguably their biggest weakness was their defense: they finished the regular season with a mediocre 112.8 defensive rating (15th out of 30 NBA teams).
+Arguably their biggest weakness was defense: they finished the regular season with a mediocre 112.8 defensive rating (15th out of 30 NBA teams).
 However, they had a 110.8 playoff defensive rating (3rd out of 16 postseason teams, and would have been 2nd in the regular season that year).
 Their 117.6 regular season offensive rating was 5th in the league, while their 119.5 playoff offensive rating was 1st out of 16 postseason teams, and would have been 1st in the regular season that year.
 
@@ -260,10 +260,11 @@ Despite all of this, the Bucks barely won a game 7--- and probably would have lo
 In the conference finals, the Bucks were then down 2-1 to the 41-31, Trae Young-led Hawks before winning 3 straight.
 I don't think any of the other teams on this list would be tested this much by the Hawks.
 
-And to their credit, they did beat the Suns in 4 straight games after going down 2-0.
+And to their credit, they did beat the Suns in 4 straight games after going down 2-0, mainly due to Giannis Antetokounmpo's play.
 
 Honestly, when I watched them in the playoffs, it felt like their offense was never quite clicking.
 One point of reference to support this: out of the final 8 teams in the playoffs that year, they had the 7th best in playoff offensive rating.
+Like the '21-'22 Warriors, I think this championship was more about Giannis being great individually than the Bucks as a team being great.
 
 ## Summary
 1. '16-'17 Warriors
