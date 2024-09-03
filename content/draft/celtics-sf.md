@@ -8,7 +8,7 @@ For instance, the public loved the movie *Where the Crawdads Sing*, giving it a 
 But critics hated it, giving the movie a 35/100.
 There are plenty of movies in which the [reverse](https://www.rottentomatoes.com/m/the_witch_2016) is true as well.
 The consensus seems to be that the public prefers dramatic, faster-paced movies with more plot and less dialogue, while
-critics enjoy  subtle, slower-paced, movies with more dialogue and less plot.
+critics enjoy subtle, slower-paced, movies with more dialogue and less plot.
 
 In this blog, I will introduces a similar idea in the realm of sports.
 However, instead of a gulf in taste between the public and critics, the difference is between the public and the oddsmakers (a bit similar to "sharps vs squares").
@@ -63,15 +63,14 @@ Kevin O'Connor [said](https://www.reddit.com/r/billsimmons/comments/1ccgyzw/kevi
 
 ## So, Why?
 
-In summary: Vegas likes Kyle Shanahan's 49ers, the Legion of Boom Seahawks, and Mazulla's Celtics, while
-fans and the public likes Mahomes' Chiefs, Peyton Manning's Broncos, and Jokic's Nuggets.
+In summary: Vegas likes Kyle Shanahan's 49ers, the Legion of Boom Seahawks, and Mazulla's Celtics, while the public likes Mahomes' Chiefs, Peyton Manning's Broncos, and Jokic's Nuggets.
 
 This isn't a huge sample size, but there is a bit of a pattern here.
 The public cares more about star power, while Vegas cares more about overall roster construction.
 For football--they particularly care about star power at quarterback, e.g., Mahomes and Peyton Manning.
 Vegas cares more about well-rounded rosters: Purdy and Russell Wilson were both good, but the key was that they were late-ish picks on their (cheap) rookie deals, which allowed their teams to stack the rest of their roster. [^4]
 In basketball, Jokic is considered the best player in the world, while Tatum is considered good but not close to Jokic.
-This seems to have a greater pull amongst the fans, while Vegas cares more about the Celtics' stacked supporting cast: Jrue Holiday is probably their worst starter (and he was the 3rd best player on the championship-winning Bucks in 2021).
+This seems to have a greater pull amongst the fans, while Vegas cares more about the Celtics' stacked supporting cast: Jrue Holiday was arguably their worst starter (and he was the 2nd best player on the number 1 seed Bucks the year before).
 
 While Vegas *really* cares about roster construction, it has no problem dismissing team record, i.e., it easily dismisses teams with good records if it thinks they're getting lucky while they will sometimes continue to respect teams with bad records.
 (Obviously this can't apply to any of the examples I've shown thus far, since all of them were championship contenders with good records.)
@@ -86,7 +85,6 @@ And there just seems to be something off vibes-wise with the Celtics; but it see
 
 So: Vegas cares about overall roster construction and less about overall team record, while the public cares more about star power, "eye test", and team record.
 
-Does any of this make sense?
 If it does (or doesn't), send me an email with your thoughts.
 
 [^1] It's true that the odds have shifted since then. I'm guessing that part of that is due to the [uncertainty](https://www.si.com/nfl/john-lynch-says-the-49ers-wont-trade-brandon-aiyuk-or-deebo-samuel#:~:text=The%2049ers%20seriously%20considered%20trading,on%20The%20Pat%20McAfee%20Show.) about Brandon Aiyuk and Deebo Samuel. Also, maybe there was some public money coming in on the Chiefs.
