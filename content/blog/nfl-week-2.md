@@ -16,3 +16,5 @@ I'm going to record the games that I was at least two points off.
 49ers at **Vikings (+5.5)**
 
 **Bucs (+7.5)** at Lions
+
+(Edit, morning of 9/15): I have since realized that I failed to take into account injuries when guessing these spreads. The Rams have a very injured offensive line, and the Bucs have an injured secondary. Oh well.
