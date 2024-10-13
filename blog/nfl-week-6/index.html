@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description"
+        content="I decided to starg blogging about sports">
+    <title>My Blog | NFL Week 6</title>
+    
+    <link rel="stylesheet" href="https://calebmkim.github.io/mysportsblog/style.css?h=5c5abba3a670f76f59be">
+    
+    
+    
+    
+</head>
+
+<body>
+    
+<header class="space">
+    <a href="https:&#x2F;&#x2F;calebmkim.github.io&#x2F;mysportsblog">&LeftArrow; Home</a>
+</header>
+
+    
+<main>
+    <h1>NFL Week 6</h1>
+    
+    <p class="secondary">10 October, 2024</p>
+    
+    <div class="space"></div>
+    <p>Some more picks for this week. </p>
+<h1 id="my-picks">My Picks</h1>
+<p>Chargers at <strong>Broncos (+3)</strong></p>
+<p>Falcons at <strong>Panthers (+6)</strong></p>
+<p><strong>Bengals (-3.5)</strong> at Giants</p>
+
+</main>
+
+    <div class="dark-mode-buttons">
+        <button class="dark-mode-button" id="dark-mode-on"><img src="https://calebmkim.github.io/mysportsblog/dark_mode.svg" width="24"
+                height="24" alt="Dark mode" aria-label="dark mode toggle" title="Dark mode"></button>
+        <button class="dark-mode-button" id="dark-mode-off"><img src="https://calebmkim.github.io/mysportsblog/light_mode.svg" width="24"
+                height="24" alt="Light mode" aria-label="light mode toggle" title="Light mode"></button>
+    </div>
+    <script>
+        const cls = document.body.classList;
+        const getSessionTheme = sessionStorage.getItem("theme");
+        if (getSessionTheme === "dark") {
+            cls.toggle("dark-mode", true);
+        } else if (getSessionTheme === "light") {
+            cls.toggle("dark-mode", false);
+        } else if (window.matchMedia("(prefers-color-scheme: dark)").matches) {
+            cls.toggle("dark-mode", true);
+        }
+
+        document.getElementById("dark-mode-on").addEventListener("click", function (e) {
+            cls.toggle("dark-mode", true);
+            sessionStorage.setItem("theme", "dark");
+        });
+        document.getElementById("dark-mode-off").addEventListener("click", function (e) {
+            cls.toggle("dark-mode", false);
+            sessionStorage.setItem("theme", "light");
+        });
+    </script>
+    <noscript>
+        <style>
+            .dark-mode-buttons {
+                display: none;
+            }
+        </style>
+    </noscript>
+</body>
+
+</html>
