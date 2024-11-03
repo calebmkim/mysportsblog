@@ -1,6 +1,6 @@
 +++
 title = "NFL Week 9"
-date = 2024-11-3
+date = 2024-11-03
 +++
 
 # My Picks
